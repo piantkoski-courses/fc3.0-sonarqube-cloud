@@ -2,7 +2,6 @@
 .idea
 .vscode
 yarn.lock
-coverage/
 .scannerwork
 node_modules/
 package-lock.json
