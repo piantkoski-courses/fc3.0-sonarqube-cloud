@@ -1,7 +1,7 @@
 .env
 .idea
 .vscode
-yarn.lock
 .scannerwork
 node_modules/
 package-lock.json
+yarn.lock
